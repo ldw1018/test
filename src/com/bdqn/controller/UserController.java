@@ -11,5 +11,7 @@ public class UserController {
 	public void test(){
 		System.out.println("aaaa");
 		System.out.println("bbb");
+
+		System.out.println("niubia");
 	}
 }	
