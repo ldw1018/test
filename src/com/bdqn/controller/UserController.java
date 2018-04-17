@@ -13,5 +13,6 @@ public class UserController {
 		System.out.println("bbb");
 
 		System.out.println("niubia");
+		System.out.println("fenzhi");
 	}
 }	
