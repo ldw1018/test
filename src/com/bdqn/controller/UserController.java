@@ -14,5 +14,6 @@ public class UserController {
 
 		System.out.println("niubia");
 		System.out.println("fenzhi");
+		System.out.println("fs");
 	}
 }	
