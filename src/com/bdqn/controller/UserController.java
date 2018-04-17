@@ -7,5 +7,9 @@ package com.bdqn.controller;
  */
 
 public class UserController {
-
-}
+	
+	public void test(){
+		System.out.println("aaaa");
+		System.out.println("bbb");
+	}
+}	
